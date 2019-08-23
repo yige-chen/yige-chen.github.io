@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="education">Education</h2>
 * <small> Institute of Information Engineering, Chinese Academy of Sciences, China  
-Ph.D in Cyber Security, Advisor: Yuan Zhou  
+Ph.D. in Cyber Security, Advisor: Yuan Zhou  
 09/2017 - 06/2022 (expected)<small>
 
 * <small> Xidian University, China  
