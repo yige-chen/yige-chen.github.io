@@ -36,6 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 
 <h2 id="news">News!</h2>
+* <small> 09/2019: The [networking conference statistics](/conf-stat) is live!</small>
 * <small> 07/2019: One full paper accepted to ICNP 2019!</small>
 
 <h2 id="research">Research</h2>
