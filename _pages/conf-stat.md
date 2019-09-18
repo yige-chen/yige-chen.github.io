@@ -240,7 +240,7 @@ The statistics will be updated regularly. If you want to update the information,
 | 2013 | Barcelona, Spain | 92 (+86 short) | 25 (+17 short) | 27.2% (19.8% short) | 1 |
 | 2014 | Vancouver, Canada | 103 (+85 short) | 32 (+11 short) | 31.1% (12.9% short) | 1 |
 | 2015 | Tokyo, Japan | 96 (+73 short) | 31 (+12 short) | 32.3% (16.4% short) | 1 |
-| 2016 | Santa Monica, California, USA | 104 (+80 short) | 25 (+21 short) | 24.0% (26.3% short) | 1 |
+| 2016 | Santa Monica, CA, USA | 104 (+80 short) | 25 (+21 short) | 24.0% (26.3% short) | 1 |
 | 2017 | London, UK | 100 (+79 short) | 28 (+14 short) | 28.0% (17.7% short) | 1 |
 | 2018 | Boston, MA, USA | 174 (unconfirmed) | 28 (+15 short) | 24.7% | 1 |
 | 2019 | Amsterdam, The Netherlands | 197(unconfirmed) | 39(unconfirmed) | 19.8% | 1 |
