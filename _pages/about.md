@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 
 <h2 id="news">News!</h2>
-* <small> 07/2019: One paper accepted to ICNP 2019!</small>
+* <small> 07/2019: One full paper accepted to ICNP 2019!</small>
 
 <h2 id="research">Research</h2>
 <small> Hi, I am Yige Chen, a third-year Ph.D. candidate at [Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)](http://http://www.iie.ac.cn/), China. My Ph.D. major is in Cyber Security. I received my Bachelor's degree in Information Security from [Xidian University](https://www.xidian.edu.cn/), China.</small>
@@ -52,4 +52,6 @@ B.S. in Information Security
 09/2013 - 06/2017<small>
 
 <h2 id="publication">Publication</h2>
-* <small>**Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Yipeng Wang. Rethinking Encrypted Traffic Classification: A Multi-Attribute Associated Fingerprint Approach. *International Conference on Network Protocols (ICNP)*, 2019.<small>
+* <small>**<font color="#5b9bd5">[ICNP'19]</font> Rethinking Encrypted Traffic Classification: A Multi-Attribute Associated Fingerprint Approach.**  
+**Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Yipeng Wang.  
+The 23th IEEE International Conference on Network Protocols ([ICNP](https://icnp19.cs.ucr.edu/)), Chicago, Illinois, USA, October 2019. Full paper acceptance rate: 30/210 = 14.3%.<small>
