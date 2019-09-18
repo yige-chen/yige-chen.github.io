@@ -272,10 +272,10 @@ The statistics will be updated regularly. If you want to update the information,
 
 | Year | Venue | Submitted | Accepted | % Accepted | Tracks |
 |:---|:---|---:|---:|---:|---:|
-| 2010 | Stockholm, Sweden | 117(IP)+58(SPOTS) | 20(IP) + 11(SPOTS) | 17.7% | 1 |
-| 2011 | Chicago, IL, USA | 87(IP)+35(SPOTS) | 18(IP) + 9(SPOTS) | 22.1% | 1 |
-| 2012 | Beijing, China | 94(IP)+53(SPOTS) | 12(IP) + 10(SPOTS) | 15.0% | 1 |
-| 2013 | Philadelphia, PA, USA | 115 | 14(IP) + 10(SPOTS) | 20.9% | 1 |
+| 2010 | Stockholm, Sweden | 117(IP)+58(SPOTS) | 20(IP)+11(SPOTS) | 17.7% | 1 |
+| 2011 | Chicago, IL, USA | 87(IP)+35(SPOTS) | 18(IP)+9(SPOTS) | 22.1% | 1 |
+| 2012 | Beijing, China | 94(IP)+53(SPOTS) | 12(IP)+10(SPOTS) | 15.0% | 1 |
+| 2013 | Philadelphia, PA, USA | 115 | 14(IP)+10(SPOTS) | 20.9% | 1 |
 | 2014 | Berlin, Germany | 111 | 23 | 20.7% | 1 |
 | 2015 | Seattle, WA, USA | 108 | 27 | 25.0% | 1 |
 | 2016 | Vienna, Austria | 117 | 21 (+2 short) | 17.9% (+1.7% short) | 1 |
