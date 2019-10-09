@@ -55,4 +55,4 @@ B.S. in Information Security
 <h2 id="publication">Publication</h2>
 * <small>**<font color="#5b9bd5">[ICNP'19]</font> Rethinking Encrypted Traffic Classification: A Multi-Attribute Associated Fingerprint Approach.**  
 **Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Yipeng Wang.  
-The 23th IEEE International Conference on Network Protocols ([ICNP](https://icnp19.cs.ucr.edu/)), Chicago, Illinois, USA, October 2019. Full paper acceptance rate: 30/210 = 14.3%.<small>
+The 23th IEEE International Conference on Network Protocols ([ICNP](https://icnp19.cs.ucr.edu/)), Chicago, Illinois, USA, October 2019. Full paper acceptance rate: 30/210 = 14.3%. ([pdf](https://icnp19.cs.ucr.edu/proceedings/MainConference/FullPapers/icnp2019-final23.pdf))<small>
