@@ -435,7 +435,7 @@ The statistics will be updated regularly. If you want to update the information,
 | 2016 | Singapore | 229 | 46 | 20.1% | 1 |
 | 2017 | Toronto, Canada | 201 | 39 | 19.4% | 1 |
 | 2018 | Cambridge, UK | 196 | 35 | 17.9% | 1 |
-| 2019 | Chicago, IL, USA | 212 | 30 | 14.2% | 1 |
+| 2019 | Chicago, IL, USA | 212 | 29 (+7 short) | 13.7% (3.3% short) | 1 |
 
 <br>
-Last updated: September 17, 2019
+Last updated: October 13, 2019
