@@ -36,6 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 
 <h2 id="news">News!</h2>
+* <small> 11/2019: One full paper accepted to AAAI 2020!</small>
 * <small> 09/2019: The [networking conference statistics](/conf-stat) is live!</small>
 * <small> 07/2019: One full paper accepted to ICNP 2019!</small>
 
@@ -53,6 +54,10 @@ B.S. in Information Security
 09/2013 - 06/2017<small>
 
 <h2 id="publication">Publication</h2>
+* <small>**<font color="#5b9bd5">[AAAI'20]</font> Joint Character Embedding and Adversarial Stability Training to Defend Adversarial Text.**  
+Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, **Yige Chen**.  
+The Thirty-Fourth AAAI Conference on Artificial Intelligence ([AAAI](https://aaai.org/Conferences/AAAI-20/)), New York, New York, USA, February 2020. Full paper acceptance rate: 1591/7737 = 20.6%.<small>
+
 * <small>**<font color="#5b9bd5">[ICNP'19]</font> Rethinking Encrypted Traffic Classification: A Multi-Attribute Associated Fingerprint Approach.**  
 **Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Yipeng Wang.  
 The 23th IEEE International Conference on Network Protocols ([ICNP](https://icnp19.cs.ucr.edu/)), Chicago, Illinois, USA, October 2019. Full paper acceptance rate: 29/212 = 13.7%. ([pdf](https://icnp19.cs.ucr.edu/proceedings/MainConference/FullPapers/icnp2019-final23.pdf)) ([slides](./files/icnp2019-rethinking.pdf))<small>
