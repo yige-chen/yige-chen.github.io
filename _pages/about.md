@@ -37,6 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="news">News!</h2>
 * <small> 11/2019: One full paper accepted to AAAI 2020!</small>
+* <small> 11/2019: One full paper accepted to ICICS 2019!</small>
 * <small> 09/2019: The [networking conference statistics](/conf-stat) is live!</small>
 * <small> 07/2019: One full paper accepted to ICNP 2019!</small>
 
@@ -61,3 +62,7 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence ([AAAI](https://aaa
 * <small>**<font color="#5b9bd5">[ICNP'19]</font> Rethinking Encrypted Traffic Classification: A Multi-Attribute Associated Fingerprint Approach.**  
 **Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Yipeng Wang.  
 The 23th IEEE International Conference on Network Protocols ([ICNP](https://icnp19.cs.ucr.edu/)), Chicago, Illinois, USA, October 2019. Full paper acceptance rate: 29/212 = 13.7%. ([pdf](https://icnp19.cs.ucr.edu/proceedings/MainConference/FullPapers/icnp2019-final23.pdf)) ([slides](./files/icnp2019-rethinking.pdf))<small>
+
+* <small>**<font color="#5b9bd5">[ICICS'19]</font> DLchain: a Covert Channel over Blockchain based on Dynamic Labels.**  
+Jing Tian, Gaopeng Gou, Chang Liu, **Yige Chen**, Gang Xiong, Zhen Li.  
+The 2019 International Conference on Information and Communications Security ([ICICS](http://www.icics.cn/)), Beijing, China, December 2019. Full paper acceptance rate: 48/199 = 24.1%.<small>
