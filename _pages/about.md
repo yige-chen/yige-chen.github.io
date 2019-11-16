@@ -61,7 +61,7 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence ([AAAI](https://aaa
 
 * <small>**<font color="#5b9bd5">[ICNP'19]</font> Rethinking Encrypted Traffic Classification: A Multi-Attribute Associated Fingerprint Approach.**  
 **Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Yipeng Wang.  
-The 23th IEEE International Conference on Network Protocols ([ICNP](https://icnp19.cs.ucr.edu/)), Chicago, Illinois, USA, October 2019. Full paper acceptance rate: 29/212 = 13.7%. ([pdf](https://icnp19.cs.ucr.edu/proceedings/MainConference/FullPapers/icnp2019-final23.pdf)) ([slides](./files/icnp2019-rethinking.pdf))<small>
+The 27th IEEE International Conference on Network Protocols ([ICNP](https://icnp19.cs.ucr.edu/)), Chicago, Illinois, USA, October 2019. Full paper acceptance rate: 29/212 = 13.7%. ([pdf](https://icnp19.cs.ucr.edu/proceedings/MainConference/FullPapers/icnp2019-final23.pdf)) ([slides](./files/icnp2019-rethinking.pdf))<small>
 
 * <small>**<font color="#5b9bd5">[ICICS'19]</font> DLchain: a Covert Channel over Blockchain based on Dynamic Labels.**  
 Jing Tian, Gaopeng Gou, Chang Liu, **Yige Chen**, Gang Xiong, Zhen Li.  
