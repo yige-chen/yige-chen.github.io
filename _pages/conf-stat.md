@@ -128,7 +128,7 @@ The statistics will be updated regularly. If you want to update the information,
 | 2017 | Boston, MA, USA | 254 | 46 | 18.1% | 1 |
 | 2018 | Renton, WA, USA | 255 | 40 | 15.7% | 1 |
 | 2019 | Boston, MA, USA | 92+240 | 19+30 | 14.8% | 1 |
-| 2020 | Santa Clara, CA, USA | 79+? | 17+? |  |  |
+| 2020 | Santa Clara, CA, USA | 79+275 | 17+48 | 18.3% | 1 |
 | 2021 | Boston, MA, USA |  |  |  |
 
 <h2 id="mobicom">ACM MobiCom</h2>
@@ -167,7 +167,7 @@ The statistics will be updated regularly. If you want to update the information,
 | 2016 | New York, NY, USA | 226 | 31 | 13.7% | 1 |
 | 2017 | Snowbird Resort, UT, USA | 186 | 35 | 18.8% | 1 |
 | 2018 | New Delhi, India | 187 | 42 | 22.4% | 1 |
-| 2019 | Los Cabos, Mexico | 290 (unconfirmed) | 55 | 19.0% | 1 |
+| 2019 | Los Cabos, Mexico | 290 | 55 | 19.0% | 1 |
 
 <h2 id="mobisys">ACM MobiSys</h2>
 <style>
@@ -242,8 +242,8 @@ The statistics will be updated regularly. If you want to update the information,
 | 2015 | Tokyo, Japan | 96 (+73 short) | 31 (+12 short) | 32.3% (16.4% short) | 1 |
 | 2016 | Santa Monica, CA, USA | 104 (+80 short) | 25 (+21 short) | 24.0% (26.3% short) | 1 |
 | 2017 | London, UK | 100 (+79 short) | 28 (+14 short) | 28.0% (17.7% short) | 1 |
-| 2018 | Boston, MA, USA | 174 (unconfirmed) | 28 (+15 short) | 24.7% | 1 |
-| 2019 | Amsterdam, The Netherlands | 197(unconfirmed) | 39(unconfirmed) | 19.8% | 1 |
+| 2018 | Boston, MA, USA | 174 | 28 (+15 short) | 24.7% | 1 |
+| 2019 | Amsterdam, The Netherlands | 118 (+79 short) | 29(+10 short) | 19.8% | 1 |
 
 <h2 id="ipsn">ACM IPSN</h2>
 <style>
@@ -320,7 +320,7 @@ The statistics will be updated regularly. If you want to update the information,
 | 2016 | Stanford, CA, USA | 119 | 21 | 17.6% | 1 |
 | 2017 | Delft, The Netherlands | 152 | 26 | 17.1% | 1 |
 | 2018 | Shenzhen, China | 147 | 23 | 15.6% | 1 |
-| 2019 | New York, NY, USA | 144(unconfirmed) | 28 | 19.4% | 1 |
+| 2019 | New York, NY, USA | 144 | 28 | 19.4% | 1 |
 
 <h2 id="infocom">IEEE INFOCOM</h2>
 <style>
@@ -359,7 +359,7 @@ The statistics will be updated regularly. If you want to update the information,
 | 2017 | Atlanta, GA, USA | 1395 | 292 | 20.9% | 8 |
 | 2018 | Honolulu, HI, USA | 1606 | 309 | 19.2% | 8 |
 | 2019 | Paris, France | 1464 | 288 | 19.7% | 8 |
-| 2020 | Beijing, China |  |  |  |  |
+| 2020 | Beijing, China | 1354 | 268 | 19.8% |  |
 
 <h2 id="conext">ACM CoNEXT</h2>
 <style>
@@ -397,7 +397,7 @@ The statistics will be updated regularly. If you want to update the information,
 | 2016 | Irvine, CA, USA | 160 (+39 short) | 30 (+5 short) | 18.8% (12.8% short) | 1 |
 | 2017 | Seoul, South Korea | 171 (+51 short) | 31 (+8 short) | 18.1% (15.7% short) | 1 |
 | 2018 | Heraklion/Crete, Greece | 142 (+43 short) | 28 (+4 short) | 19.7% (9.3% short) | 1 |
-| 2019 | Orlando, FL, USA | 290(unconfirmed) | 32(unconfirmed) | 11.0% | 1 |
+| 2019 | Orlando, FL, USA | 140 (+41 short) | 23 (+9 short) | 15.4% (21.9 short) | 1 |
 
 <h2 id="icnp">IEEE ICNP</h2>
 <style>
@@ -438,4 +438,4 @@ The statistics will be updated regularly. If you want to update the information,
 | 2019 | Chicago, IL, USA | 212 | 29 (+7 short) | 13.7% (3.3% short) | 1 |
 
 <br>
-Last updated: October 13, 2019
+Last updated: December 18, 2019
