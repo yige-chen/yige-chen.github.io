@@ -63,6 +63,14 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence ([AAAI](https://aaa
 **Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Yipeng Wang.  
 The 27th IEEE International Conference on Network Protocols ([ICNP](https://icnp19.cs.ucr.edu/)), Chicago, Illinois, USA, October 2019. Full paper acceptance rate: 29/212 = 13.7%. ([pdf](https://icnp19.cs.ucr.edu/proceedings/MainConference/FullPapers/icnp2019-final23.pdf)) ([slides](./files/icnp2019-rethinking.pdf))<small>
 
+* <small>**<font color="#5b9bd5">[IJCAI-PRICAI'20]</font> Gated POS-Level Language Model for Authorship Verification.**  
+Linshu Ouyang, Yongzheng Zhang, Hui Liu, **Yige Chen**, Yipeng Wang.
+The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence ([IJCAI-PRICAI](https://www.ijcai20.org/)), Japan, January 2021. <small>
+
 * <small>**<font color="#5b9bd5">[ICICS'19]</font> DLchain: a Covert Channel over Blockchain based on Dynamic Labels.**  
 Jing Tian, Gaopeng Gou, Chang Liu, **Yige Chen**, Gang Xiong, Zhen Li.  
 The 2019 International Conference on Information and Communications Security ([ICICS](http://www.icics.cn/)), Beijing, China, December 2019. Full paper acceptance rate: 48/199 = 24.1%.<small>
+
+* <small>**<font color="#5b9bd5">[ICT'20]</font> A Multi-feature-based Approach to Malicious Domain Name Identification from DNS Traffic.**  
+Chen Zhao, Yongzheng Zhang, Tianning Zang, **Yige Chen**, Yipeng Wang.  
+27th International Conference on Telecommunications ([ICT](http://ict-20.org/)), Bali, Indonesia, October 2020.<small>
