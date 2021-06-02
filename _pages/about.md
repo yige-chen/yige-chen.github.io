@@ -55,6 +55,10 @@ B.S. in Information Security
 09/2013 - 06/2017<small>
 
 <h2 id="publication">Publication</h2>
+* <small>**<font color="#5b9bd5">[ICC'21]</font>Incremental Learning for Mobile Encrypted Traffic Classification.**  
+**Yige Chen**, Tianning Zang, Yongzheng Zhang, Linshu Ouyang, Peng Yang.  
+IEEE International Conference on Communications ([ICC](https://icc2021.ieee-icc.org/)), Virturl, Montreal, June 2021.<small>
+
 * <small>**<font color="#5b9bd5">[AAAI'20]</font> Joint Character Embedding and Adversarial Stability Training to Defend Adversarial Text.**  
 Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, **Yige Chen**.  
 The Thirty-Fourth AAAI Conference on Artificial Intelligence ([AAAI](https://aaai.org/Conferences/AAAI-20/)), New York, New York, USA, February 2020. Full paper acceptance rate: 1591/7737 = 20.6%.<small>
