@@ -57,7 +57,7 @@ B.S. in Information Security
 <h2 id="publication">Publication</h2>
 * <small>**<font color="#5b9bd5">[ICC'21]</font>Incremental Learning for Mobile Encrypted Traffic Classification.**  
 **Yige Chen**, Tianning Zang, Yongzheng Zhang, Linshu Ouyang, Peng Yang.  
-IEEE International Conference on Communications ([ICC](https://icc2021.ieee-icc.org/)), Virturl, Montreal, June 2021.<small>
+ICC 2020-2020 IEEE International Conference on Communications ([ICC](https://icc2021.ieee-icc.org/)), Virturl, Montreal, June 2021.<small>
 
 * <small>**<font color="#5b9bd5">[AAAI'20]</font> Joint Character Embedding and Adversarial Stability Training to Defend Adversarial Text.**  
 Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, **Yige Chen**.  
