@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small> 07/2019: One full paper accepted to ICNP 2019!</small>
 
 <h2 id="research">Research</h2>
-<small> Hi, I am Yige Chen, a third-year Ph.D. candidate at [Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)](http://http://www.iie.ac.cn/), China. My Ph.D. major is in Cyber Security. I received my Bachelor's degree in Information Security from [Xidian University](https://www.xidian.edu.cn/), China.</small>
+<small> Hi, I am Yige Chen, a fifth-year Ph.D. candidate at [Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)](http://http://www.iie.ac.cn/), China. My Ph.D. major is in Cyber Security. I received my Bachelor's degree in Information Security from [Xidian University](https://www.xidian.edu.cn/), China.</small>
 <small>My research interests are primarily in the area of Network Traffic Analysis.</small>
 
 <h2 id="education">Education</h2>
@@ -55,9 +55,17 @@ B.S. in Information Security
 09/2013 - 06/2017<small>
 
 <h2 id="publication">Publication</h2>
+* <small>**<font color="#5b9bd5">[CollaborateCom'21]</font>Mobile Encrypted Traffic Classification Based on Message Type Inference.**  
+**Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Peng Yang.
+17th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing ([CollaborateCom](https://collaboratecom.eai-conferences.org/2021/)), Virturl, China, October 2021.<small>
+
+* <small>**<font color="#5b9bd5">[CollaborateCom'21]</font>Inspector: A Semantics-Driven Approach to Automatic Protocol Reverse Engineering.**  
+**Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Peng Yang, Yipeng Wang.
+17th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing ([CollaborateCom](https://collaboratecom.eai-conferences.org/2021/)), Virturl, China, October 2021.<small>
+
 * <small>**<font color="#5b9bd5">[ICC'21]</font>Incremental Learning for Mobile Encrypted Traffic Classification.**  
-**Yige Chen**, Tianning Zang, Yongzheng Zhang, Linshu Ouyang, Peng Yang.  
-ICC 2021-2021 IEEE International Conference on Communications ([ICC](https://icc2021.ieee-icc.org/)), Virturl, Montreal, June 2021.<small>
+**Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Linshu Ouyang, Peng Yang.  
+ICC 2021-2021 IEEE International Conference on Communications ([ICC](https://icc2021.ieee-icc.org/)), Virturl, Montreal, June 2021. ([slides](./files/icc2021-incremental.pdf))<small>
 
 * <small>**<font color="#5b9bd5">[AAAI'20]</font> Joint Character Embedding and Adversarial Stability Training to Defend Adversarial Text.**  
 Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, **Yige Chen**.  
