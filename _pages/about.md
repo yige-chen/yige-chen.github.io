@@ -42,12 +42,12 @@ h1, h2, h3, h4, h5, h6 {
 * <small> 07/2019: One full paper accepted to ICNP 2019!</small>
 
 <h2 id="research">Research</h2>
-<small> Hi, I am Yige Chen, a fifth-year Ph.D. candidate at [Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)](http://http://www.iie.ac.cn/), China. My Ph.D. major is in Cyber Security. I received my Bachelor's degree in Information Security from [Xidian University](https://www.xidian.edu.cn/), China.</small>
+<small> Hi, I am Yige Chen, a fifth-year Ph.D. candidate at [Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)](http://www.iie.ac.cn/), China. My Ph.D. major is in Cyber Security. I received my Bachelor's degree in Information Security from [Xidian University](https://www.xidian.edu.cn/), China.</small>
 <small>My research interests are primarily in the area of Network Traffic Analysis.</small>
 
 <h2 id="education">Education</h2>
 * <small> Institute of Information Engineering, Chinese Academy of Sciences, China  
-Ph.D. in Cyber Security, Advisor: Yuan Zhou  
+Ph.D. in Cyber Security, Advisor: Tianning Zang  
 09/2017 - 06/2022 (expected)<small>
 
 * <small> Xidian University, China  
